@@ -1,0 +1,2 @@
+alternative solution : can calculte gravity directly in api.
+Drawback of my solution : not any 
